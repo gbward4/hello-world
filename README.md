@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+In the editor, write some things.
